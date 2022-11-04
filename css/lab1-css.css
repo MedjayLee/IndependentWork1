@@ -1,0 +1,77 @@
+.contents{
+    color: red;
+    background-color: #ffc1cc;
+    
+}
+.contents-link{
+    color: red;
+    text-decoration: none;
+}
+.bob1-name{
+    color: red;
+}
+.img-plcmnt-text{
+    font-style: italic;
+}
+.bob1-img{
+    width: 550px;
+}
+.bob1{
+    display: flex;
+}
+.bob1-quote{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.bob1-end,
+.bob2-end{
+    background-color: #68f289;
+}
+.hr1{
+    border: 2px solid red;
+    border-bottom-width: 0px;
+}
+.hr4{
+    border: 2px solid black;
+    border-bottom-width: 0px;
+}
+.hr3,
+.hr2{
+    border: 2px solid blue;
+    border-bottom-width: 0px;
+}
+.bob2{
+    display: flex;
+}
+.bob2-img{
+    width: 550px;
+}
+.bob2-quote{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.img-plcmnt-text2{
+    text-align: right;
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+.greenwhite{
+    color: white;
+    background-color: green;
+}
+.boblink{
+    color: red;
+    text-decoration: none;
+}
+.div-second-text{
+    background-color: #ffc0cb;
+}
+.last-hr{
+    border: 2px solid green;
+    border-bottom-width: 0;
+}
